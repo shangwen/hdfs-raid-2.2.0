@@ -95,7 +95,7 @@ import org.xml.sax.SAXException;
 import org.apache.hadoop.metrics.util.MBeanUtil;
 
 /**
- * A base class that implements {@link RaidProtocol}.
+ * A base class that implements {@link org.apache.hadoop.raid.protocol.RaidProtocol}.
  *
  * use raid.classname to specify which implementation to use
  */
